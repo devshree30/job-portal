@@ -8,7 +8,7 @@ A full-stack job portal application built using **Java Spring Boot microservices
 
 | Layer              | Technology Stack                           |
 |--------------------|--------------------------------------------|
-| **Frontend**       | React.js (or Angular/Vue.js)               |
+| **Frontend**       | React.js                |
 | **Backend**        | Java Spring Boot Microservices             |
 | **Database**       | PostgreSQL                                 |
 | **Message Broker** | Apache Kafka                               |
